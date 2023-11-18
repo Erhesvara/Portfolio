@@ -3,7 +3,7 @@
 Welcome to my website portfolio! This repository contains the code and assets for my personal portfolio website, showcasing my journey, projects, and skills as a software developer.
 
 ## About Me
-I'm Erald, a passionate and dedicated software developer with a strong interest in crafting efficient and user-centric solutions. Through this portfolio, I aim to present my expertise, share my projects, and connect with like-minded individuals and potential collaborators.
+Hi There! a passionate and dedicated software developer with a strong interest in crafting efficient and user-centric solutions. Through this portfolio, I aim to present my expertise, share my projects, and connect with like-minded individuals and potential collaborators.
 
 ## What You'll Find Here
 Projects
