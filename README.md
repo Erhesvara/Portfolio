@@ -16,10 +16,11 @@ Discover my technical abilities, ranging from backend and frontend development t
 Follow my learning process and insights gained through challenges and successes. I believe in continuous improvement and share my experiences to inspire others and showcase my growth as a developer.
 
 ### How to Navigate
-Explore Projects: Visit the "Projects" section to delve into detailed descriptions, code snippets, and demos of my showcased works.
-Browse Skills: Get an overview of my technical skills and expertise in the "Skills" section.
-Connect with Me: Reach out via the provided contact information if you're interested in collaboration or have any inquiries.
-Getting in Touch
+- Explore Projects: Visit the "Projects" section to delve into detailed descriptions, code snippets, and demos of my showcased works.
+- Browse Skills: Get an overview of my technical skills and expertise in the "Skills" section.
+- Connect with Me: Reach out via the provided contact information if you're interested in collaboration or have any inquiries.
+- Getting in Touch
+  
 I'm open to collaborations, discussions, and exploring new opportunities! Feel free to contact me via [email/LinkedIn/other contact info] to discuss potential projects or simply to connect.
 
 Thank you for visiting my portfolio—I hope you find inspiration and insight into my journey as a software developer!
