@@ -9,13 +9,13 @@ Hi There! a passionate and dedicated software developer with a strong interest i
 Projects
 Explore a variety of projects that demonstrate my proficiency in software development. These projects encompass web development, mobile applications, and other coding ventures, highlighting my skills in languages such as Python, JavaScript, Java, and frameworks like React and Node.js.
 
-#### Skills
+### Skills
 Discover my technical abilities, ranging from backend and frontend development to database management, version control, and agile methodologies. I continually strive to expand my knowledge base and stay updated with emerging technologies.
 
-#### Learning Journey
+### Learning Journey
 Follow my learning process and insights gained through challenges and successes. I believe in continuous improvement and share my experiences to inspire others and showcase my growth as a developer.
 
-#### How to Navigate
+### How to Navigate
 Explore Projects: Visit the "Projects" section to delve into detailed descriptions, code snippets, and demos of my showcased works.
 Browse Skills: Get an overview of my technical skills and expertise in the "Skills" section.
 Connect with Me: Reach out via the provided contact information if you're interested in collaboration or have any inquiries.
