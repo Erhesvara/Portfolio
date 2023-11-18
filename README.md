@@ -1,3 +1,15 @@
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 # Erald's Portfolio
 
 Welcome to my website portfolio! This repository contains the code and assets for my personal portfolio website, showcasing my journey, projects, and skills as a software developer.
