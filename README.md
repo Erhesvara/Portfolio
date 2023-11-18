@@ -1,3 +1,7 @@
+# Erald's Portfolio
+
+Welcome to my website portfolio! This repository contains the code and assets for my personal portfolio website, showcasing my journey, projects, and skills as a software developer.
+
 ## Getting Started
 
 First, run the development server:
@@ -7,12 +11,6 @@ npm run dev
 # or
 yarn dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-# Erald's Portfolio
-
-Welcome to my website portfolio! This repository contains the code and assets for my personal portfolio website, showcasing my journey, projects, and skills as a software developer.
 
 ## About Me
 Hi There! a passionate and dedicated software developer with a strong interest in crafting efficient and user-centric solutions. Through this portfolio, I aim to present my expertise, share my projects, and connect with like-minded individuals and potential collaborators.
