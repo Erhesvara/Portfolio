@@ -7,8 +7,16 @@ Welcome to my website portfolio! This repository contains the code and assets fo
 First, run the development server:
 
 ```bash
+# 👇️ if you use npm
+npm install
+npm install react react-dom next
+
 npm run dev
-# or
+
+# 👇️ if you use yarn
+yarn install
+yarn add react react-dom next
+
 yarn dev
 ```
 
