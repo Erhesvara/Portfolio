@@ -27,6 +27,8 @@ Hi There! Passionate and dedicated software developer with a strong interest in 
 
 ###  What You'll Find Here
 
+Projects: Explore a diverse range of projects I've worked on, each highlighting my skills in coding, problem-solving, and creativity. From web applications to mobile development and more, these projects demonstrate my proficiency in various programming languages and frameworks.
+
 I'm excited to collaborate, learn, and explore new opportunities. Feel free to reach out through the contact section to discuss potential projects, collaborations, or even just to say hello! Let's bring ideas to life and create impactful solutions together.
 
 ### Skills
