@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Hi There! Passionate and dedicated software developer with a strong interest in crafting efficient and user-centric solutions. Through this portfolio, I aim to present my expertise, share my projects, and connect with like-minded individuals and potential collaborators.
 
 ###  What You'll Find Here
-Projects
+_Projects_
 Explore a variety of projects that demonstrate my proficiency in software development. These projects encompass web development, mobile applications, and other coding ventures, highlighting my skills in languages such as Python, JavaScript, Java, and frameworks like React and Node.js.
 
 ### Skills
