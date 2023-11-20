@@ -1,6 +1,6 @@
 # Erald's Portfolio
 
-Welcome to my website portfolio! This repository contains the code and assets for my personal portfolio website, showcasing my journey, projects, and skills as a software developer.
+Welcome to my website portfolio! This repository contains the code and assets for my personal portfolio website, showcasing my journey, projects, and skills to become a software developer.
 
 ## Getting Started
 
