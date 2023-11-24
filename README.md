@@ -22,14 +22,17 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
 ## About Me
 Hi There! Passionate and dedicated software developer with a strong interest in crafting efficient and user-centric solutions. Through this portfolio, I aim to present my expertise, share my projects, and connect with like-minded individuals and potential collaborators.
+
 
 ###  What You'll Find Here
 
 _**Projects:**_ Explore a diverse range of projects I've worked on, each highlighting my skills in coding, problem-solving, and creativity. From web applications to mobile development and more, these projects demonstrate my proficiency in various programming languages and frameworks.
 
 I'm excited to collaborate, learn, and explore new opportunities. Feel free to reach out through the contact section to discuss potential projects, collaborations, or even just to say hello! Let's bring ideas to life and create impactful solutions together.
+
 
 ### Skills
 Discover my technical abilities, ranging from backend and frontend development to database management, version control, and agile methodologies. I continually strive to expand my knowledge base and stay updated with emerging technologies.
