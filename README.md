@@ -49,3 +49,5 @@ I'm open to collaborations, discussions, and exploring new opportunities! Feel f
 Thank you for visiting my portfolio—I hope you find inspiration and insight into my journey as a software developer!
 
 to do:
+- [ ] Update/Add projects
+- [ ] Make a project section
