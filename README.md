@@ -47,3 +47,5 @@ Follow my learning process and insights gained through challenges and successes.
 I'm open to collaborations, discussions, and exploring new opportunities! Feel free to contact me via [email/LinkedIn/other contact info] to discuss potential projects or simply to connect.
 
 Thank you for visiting my portfolio—I hope you find inspiration and insight into my journey as a software developer!
+
+to do:
