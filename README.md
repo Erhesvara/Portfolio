@@ -50,4 +50,4 @@ Thank you for visiting my portfolio—I hope you find inspiration and insight in
 
 to do:
 - [ ] Update/Add projects
-- [x] Make a project section
+- [ ] Make a project section
